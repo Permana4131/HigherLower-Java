@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HigherLower</string>
+    <string name="guess_the_number_between_1_20">Guess the number between 1-20</string>
+    <string name="submit">Submit</string>
+</resources>
